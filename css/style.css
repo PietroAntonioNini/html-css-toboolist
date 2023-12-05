@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* header */
+
+header {
+    padding: 10px 20px;
+    background-color: white;
+}
+
+#Logo, h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+/* fine header */
