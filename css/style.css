@@ -36,6 +36,7 @@ nav{
     padding: 20px 0px 0px 100px;
 
     background-color: white;
+    border-radius: 10px
 }
 
 #task {
@@ -71,6 +72,55 @@ nav{
     height: 1000px;
 
     background-color: white;
+    border-radius: 10px;
 }
 
+/* fine main */
+
+/* inizio sezione 1 */
+
+h2 {
+    font-size: 30px;
+}
+
+.row {
+    margin: 20px 0px;
+}
+
+span {
+    font-size: 20px;
+}
+
+.checkmark {
+
+    margin-right: 10px;
+    padding: 1px 4px;
+
+    color: green;
+    border: green solid;
+    border-radius: 100%;
+}
+
+.uncheckmark {
+
+    margin-right: 10px;
+    padding: 1px 4px;
+
+    color: #e00000;
+    border: #e00000 solid;
+    border-radius: 100%;
+}
+
+#Editorial {
+
+    padding: 5px 10px;
+    border-radius: 50px;
+
+    background-color: blue;
+    color: white;
+}
+
+
+
+/* fine sezione 1 */
 
