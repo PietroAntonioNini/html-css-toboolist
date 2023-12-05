@@ -43,8 +43,8 @@ nav{
 
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #006eff;
-    border: blue;
+    background-color: #45abea;
+    border: #45abea;
     border-radius: 10px;
     color: white;
 }
@@ -77,7 +77,11 @@ nav{
 
 /* fine main */
 
-/* inizio sezione 1 */
+/* inizio sezioni */
+
+section {
+    margin-bottom: 50px;
+}
 
 h2 {
     font-size: 30px;
@@ -111,16 +115,63 @@ span {
     border-radius: 100%;
 }
 
+/* Tag colorati */
+
 #Editorial {
 
     padding: 5px 10px;
     border-radius: 50px;
 
-    background-color: blue;
+    background-color: #45abea;
     color: white;
 }
 
+#Goals {
 
+    padding: 5px 10px;
+    border-radius: 50px;
 
-/* fine sezione 1 */
+    background-color: #9C72E4;
+    color: white;
+}
+
+#Recruiting {
+
+    padding: 5px 10px;
+    border-radius: 50px;
+
+    background-color: #64c0a9;
+    color: white;
+}
+
+#Mobile {
+
+    padding: 5px 10px;
+    border-radius: 50px;
+
+    background-color: #f29e33;
+    color: white;
+}
+
+#Website {
+
+    padding: 5px 10px;
+    border-radius: 50px;
+
+    background-color: #d863a1;
+    color: white;
+}
+
+#Sales {
+
+    padding: 5px 10px;
+    border-radius: 50px;
+
+    background-color: #b0c926;
+    color: white;
+}
+
+/* Fine Tag colorati */
+
+/* Fine sezioni */
 
